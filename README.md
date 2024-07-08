@@ -1,4 +1,4 @@
-![This is me](https://pbs.twimg.com/profile_banners/1195062382634192896/1638295661/1500x500](https://infinityservices.com.do/web/image/website/1/logo/INFINITY%20SERVICES?unique=61acb1a)) 
+![This is me](https://infinityservices.com.do/web/image/website/1/logo/INFINITY%20SERVICES?unique=61acb1a)
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat-square&logo=firefox-browser&logoColor=white&color=4AB197)](http://infinityservices.com.do)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jeffryjdelarosa)
