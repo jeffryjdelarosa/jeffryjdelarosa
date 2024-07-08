@@ -1,7 +1,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat-square&logo=firefox-browser&logoColor=white&color=4AB197)](http://infinityservices.com.do)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jeffryjdelarosa)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jeffryjdelarosa/)
-[![Odoo Apps](https://img.shields.io/badge/CodersRank-informational?style=flat-square&logo=CodersRank&logoColor=white&color=67a4ac)]
+
 
 ```python 
 class JeffryJDeLaRosa(self):
